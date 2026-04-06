@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.04.03 19:43:07.493,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.04.03 19:43:07.690,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.04.03 19:44:22.598,D:\Projects\Programming\CPP\BDS\Console\Algorithms\IsNumberDividesBy9\IsNumberDividesBy9PCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.04.03 19:44:22.609,D:\Projects\Programming\CPP\BDS\Console\Algorithms\IsNumberDividesBy9\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.04.03 19:44:22.620,D:\Projects\Programming\CPP\BDS\Console\Algorithms\IsNumberDividesBy9\IsNumberDividesBy9.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.04.03 19:44:39.509,D:\Projects\Programming\CPP\BDS\Console\Algorithms\IsNumberDividesBy9\IsNumberDividesBy9.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\IsNumberDividesBy9\File1.cpp</Transaction>
+    <Transaction>2026.04.03 19:44:41.698,D:\Projects\Programming\CPP\BDS\Console\Algorithms\IsNumberDividesBy9\IsNumberDividesBy9.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\IsNumberDividesBy9\IsNumberDividesBy9.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
